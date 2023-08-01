@@ -1,7 +1,7 @@
 
 🌱 Recently earned a certificate in Full Stack Web Development from Southern Methodist University 2022.
 
-📫 How to reach me:samismail2010l@gmail.com or <a href="https://www.linkedin.com/in/sam-ismail-a7a462145/" target="_blank">LinkedIn</a>
+📫 How to reach me: samismail2010l@gmail.com or <a href="https://www.linkedin.com/in/sam-ismail-a7a462145/" target="_blank">LinkedIn</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samismail2010&layout=donut&theme=transparent&show_icons=true)](https://github.com/samsimail2010/github-readme-stats)
 <br>
